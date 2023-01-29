@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crypto</string>
+    <string name="cypto">Cypto</string>
+    <string name="todo">TODO</string>
+    <string name="icon_of_the_crypto">icon of the crypto</string>
+    <string name="name_of_currency">Name of currency</string>
+    <string name="_10">10)</string>
+    <string name="amount_in_dollar">Amount in dollar</string>
+    <string name="gradient">Gradient</string>
+</resources>
